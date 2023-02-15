@@ -1,0 +1,17 @@
+{
+  "name": "curso-asincronismo-javascript",
+  "version": "1.0.0",
+  "description": "Curso de asincronismo con Javascript de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "leonel marinaro marinaro.leonel@tecnica7.edu.ar",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
