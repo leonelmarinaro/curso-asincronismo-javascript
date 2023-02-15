@@ -12,6 +12,7 @@
   "author": "leonel marinaro marinaro.leonel@tecnica7.edu.ar",
   "license": "MIT",
   "dependencies": {
+    "node-fetch": "^3.3.0",
     "xmlhttprequest": "^1.8.0"
   }
 }
